@@ -1,0 +1,15 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.persist.uw.examples.TestSQueue, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.persist.uw.examples.TestFQueue, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.persist.uw.examples.TestCFQueue, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.persist.uw.examples.TestCQueue, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.persist.uw.examples.TestFCQueue, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.persist.uw.examples.TestFSet, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mSummary for specs2 not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 27, Failed 0, Errors 0, Passed 27[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.persist.uw.examples.TestFSet[0m
+[0m[[0mdebug[0m] [0m	com.persist.uw.examples.TestFCQueue[0m
+[0m[[0mdebug[0m] [0m	com.persist.uw.examples.TestFQueue[0m
+[0m[[0mdebug[0m] [0m	com.persist.uw.examples.TestCFQueue[0m
+[0m[[0mdebug[0m] [0m	com.persist.uw.examples.TestSQueue[0m
+[0m[[0mdebug[0m] [0m	com.persist.uw.examples.TestCQueue[0m

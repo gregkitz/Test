@@ -1,0 +1,633 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -feature
+3 -> -Yrangepos
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CFQueue$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CFQueue.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$Cell$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$Cell.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$Ends$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$Ends.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue$CQ$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue$CQ.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue$class.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$EmptyFQueue$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$NonEmptyFQueue$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$NonEmptyFQueue.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$class.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$EmptyFSet$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$NonEmptyFSet$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$NonEmptyFSet.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$class.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/Main$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/Main$delayedInit$body.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/Main.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$Cell$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$Cell.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$Ends$.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$Ends.class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue.class
+binary dependencies:
+14 items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> /Users/gkitzmil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> /Users/gkitzmil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> /Users/gkitzmil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> /Users/gkitzmil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> /Users/gkitzmil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> /Users/gkitzmil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> /Users/gkitzmil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> /Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> /Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> /Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> com.persist.uw.examples.CFQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> com.persist.uw.examples.CFQueue$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> com.persist.uw.examples.CQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> com.persist.uw.examples.CQueue$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> com.persist.uw.examples.CQueue$Cell
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> com.persist.uw.examples.CQueue$Cell$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> com.persist.uw.examples.CQueue$Ends
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> com.persist.uw.examples.CQueue$Ends$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> com.persist.uw.examples.FCQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> com.persist.uw.examples.FCQueue$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> com.persist.uw.examples.FCQueue$CQ
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> com.persist.uw.examples.FCQueue$CQ$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> com.persist.uw.examples.FCQueue$class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> com.persist.uw.examples.FQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> com.persist.uw.examples.FQueue$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> com.persist.uw.examples.FQueue$EmptyFQueue$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> com.persist.uw.examples.FQueue$NonEmptyFQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> com.persist.uw.examples.FQueue$NonEmptyFQueue$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> com.persist.uw.examples.FQueue$class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> com.persist.uw.examples.FSet
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> com.persist.uw.examples.FSet$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> com.persist.uw.examples.FSet$EmptyFSet$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> com.persist.uw.examples.FSet$NonEmptyFSet
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> com.persist.uw.examples.FSet$NonEmptyFSet$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> com.persist.uw.examples.FSet$class
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> com.persist.uw.examples.Main
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> com.persist.uw.examples.Main$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> com.persist.uw.examples.Main$delayedInit$body
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> com.persist.uw.examples.SQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> com.persist.uw.examples.SQueue$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> com.persist.uw.examples.SQueue$Cell
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> com.persist.uw.examples.SQueue$Cell$
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> com.persist.uw.examples.SQueue$Ends
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> com.persist.uw.examples.SQueue$Ends$
+used names:
+401 items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> &&
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> <init>
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> ==
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> AbstractFunction0
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Any
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Boolean
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> CFQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> FQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> IndexOutOfBoundsException
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Int
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Iterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Nothing
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Object
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Option
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Predef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Product
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> ScalaRunTime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Serializable
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> String
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> T
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> T0
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> Unit
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> _hashCode
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> _toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> apply
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> asInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> com
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> examples
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> i
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> insert
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> isInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> last
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> package
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> persist
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> q
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> q_=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> remove
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> result
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> runtime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> size
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> typedProductIterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> uw
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> &&
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> +
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> -
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> <init>
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> ==
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> A
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> AbstractFunction3
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Any
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> AnyRef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Boolean
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> CQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Cell
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Ends
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> IndexOutOfBoundsException
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Int
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Iterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> MatchError
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> None
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Nothing
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Object
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Option
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Predef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Product
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> ScalaRunTime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Serializable
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Some
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Statics
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> String
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> T
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> T0
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> T1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> T2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> T3
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Tuple2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Tuple3
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> Unit
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> _1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> _2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> _toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> annotation
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> anyHash
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> apply
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> asInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> c
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> c1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> cell
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> cell1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> cell1a
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> cell2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> cell2a
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> cnt
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> com
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> copy1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> e
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> e1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> e2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> eq
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> equals1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> equals2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> examples
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> finalizeHash
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> first
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> get
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> i
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> insert
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> isInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> last
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> mix
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> ne
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> newLast
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> next
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> next_=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> other
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> package
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> persist
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> prev
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> prev_=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> q
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> root
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> root_=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> runtime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> tailrec
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> typedProductIterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> uw
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> x
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> ||
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> &&
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> <init>
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> ==
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> A
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> AbstractFunction1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Any
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> AnyRef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Boolean
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> CQ
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> CQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> FCQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> IndexOutOfBoundsException
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Int
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Iterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> None
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Nothing
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Object
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Option
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Predef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Product
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> ScalaRunTime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Serializable
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Some
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> String
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> T
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> T0
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> Unit
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> _hashCode
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> _toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> apply
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> asInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> c
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> c1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> com
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> copy
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> eq
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> examples
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> i
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> insert
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> isInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> last
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> package
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> persist
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> remove
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> runtime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> size
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> typedProductIterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> uw
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> ||
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> &&
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> +
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> <init>
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> ==
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> A
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> AbstractFunction2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Any
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> AnyRef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Boolean
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> EmptyFQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> FQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> IndexOutOfBoundsException
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Int
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Iterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> MatchError
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> NonEmptyFQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> None
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Nothing
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Object
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Option
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Predef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Product
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> ScalaRunTime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Serializable
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Some
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Statics
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> String
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> T
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> T0
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> T1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> T2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> Tuple2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> _toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> accum
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> annotation
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> anyHash
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> asInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> com
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> eq
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> examples
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> finalizeHash
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> i
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> isInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> mix
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> next
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> package
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> persist
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> reverse
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> reverse1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> runtime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> size1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> tailrec
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> typedProductIterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> uw
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> ||
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> &&
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> +
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> <init>
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> ==
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> A
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> AbstractFunction2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Any
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> AnyRef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Boolean
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> EmptyFSet
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> FQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> FSet
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> IndexOutOfBoundsException
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Int
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Iterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> MatchError
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> NonEmptyFQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> NonEmptyFSet
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> None
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Nothing
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Object
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Predef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Product
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> ScalaRunTime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Serializable
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Some
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Statics
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> String
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> T
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> T0
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> T1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> T2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> Tuple2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> _toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> accu
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> accum
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> add
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> annotation
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> anyHash
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> apply
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> asInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> com
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> contains
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> currentVal
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> delete1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> eq
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> examples
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> finalizeHash
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> i
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> i1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> intersect1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> isInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> it
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> mix
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> next
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> package
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> persist
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> restSet
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> runtime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> set1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> size1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> subset
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> subset1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> tailrec
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> typedProductIterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> unary_!
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> union1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> uw
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> ||
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> <init>
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> App
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> FSet
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> Int
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> Main
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> Object
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> add
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> apply
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> com
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> examples
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> persist
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> s1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> uw
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> &&
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> +
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> -
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> <init>
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> ==
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> A
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> AbstractFunction0
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> AbstractFunction3
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Any
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> AnyRef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Boolean
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Cell
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Ends
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> IndexOutOfBoundsException
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Int
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Iterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Last
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> MatchError
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> None
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Nothing
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Object
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Option
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Predef
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Product
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> SQueue
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> ScalaRunTime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Serializable
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Some
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Statics
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> String
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> T
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> T0
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> T1
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> T2
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> T3
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Tuple3
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> Unit
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> _hashCode
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> _toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> anyHash
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> asInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> cell
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> cnt
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> com
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> e
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> eq
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> examples
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> finalizeHash
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> first
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> get
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> i
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> isInstanceOf
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> last
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> mix
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> ne
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> newLast
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> newRoot
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> next
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> next_=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> package
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> persist
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> prev
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> prev_=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> r
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> root
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> root_=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> runtime
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> scala
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> synchronized
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> toString
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> typedProductIterator
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> uw
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> x
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> ||
+product stamps:
+34 items
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CFQueue$.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CFQueue.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$Cell$.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$Cell.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$Ends$.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue$Ends.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/CQueue.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue$.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue$CQ$.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue$CQ.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue$class.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FCQueue.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$EmptyFQueue$.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$NonEmptyFQueue$.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$NonEmptyFQueue.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue$class.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FQueue.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$.class -> lastModified(1477975413000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$EmptyFSet$.class -> lastModified(1477975413000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$NonEmptyFSet$.class -> lastModified(1477975413000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$NonEmptyFSet.class -> lastModified(1477975413000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet$class.class -> lastModified(1477975413000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/FSet.class -> lastModified(1477975413000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/Main$.class -> lastModified(1477973495000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/Main$delayedInit$body.class -> lastModified(1477973495000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/Main.class -> lastModified(1477973494000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$.class -> lastModified(1477973495000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$Cell$.class -> lastModified(1477973495000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$Cell.class -> lastModified(1477973495000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$Ends$.class -> lastModified(1477973495000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue$Ends.class -> lastModified(1477973495000)
+/Users/gkitzmil/UWScalaClass/assign2/target/scala-2.11/classes/com/persist/uw/examples/SQueue.class -> lastModified(1477973495000)
+source stamps:
+7 items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> hash(604877f1d7eaaae0c5eec9678ad952362afb8482)
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> hash(6183382bf83a23d4cc41fd2374571bd94ae6ce31)
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> hash(1c8b256f68f348aeca476a2d71cea49c6aa4a00f)
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> hash(076504029de7fac364fad3c8a33f2fe3faf273dd)
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> hash(ce2e810b10ec111e29c9e80dc01d5b8d96a34078)
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> hash(42bf3fe23ad3d56659659be4d65fa767ac5c3941)
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> hash(3d87e1cf2d894f0ba85e7ee30707aa735d2fe37f)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444172124000)
+/Users/gkitzmil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/gkitzmil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Serializable
+internal apis:
+7 items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwNFsCQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwvt3vCXQABm5vdGlmeXNxAH4ADGaide10AAR3YWl0c3EAfgAMds7aPXQADSRhc0luc3RhbmNlT2ZzcQB+AAzzQpRXdAAEc2l6ZXNxAH4ADOk0sIp0AAZpbnNlcnRzcQB+AAwYkv7tdAAMcHJvZHVjdEFyaXR5c3EAfgAMrlY8EXQABmVxdWFsc3NxAH4ADDoNmFd0AAxhc0luc3RhbmNlT2ZzcQB+AAwf6JOKdAAMc3luY2hyb25pemVkc3EAfgAMchfWsXQADSRpc0luc3RhbmNlT2ZzcQB+AAyAlIdydAAIY2FuRXF1YWxzcQB+AAyS2ihbdAANcHJvZHVjdFByZWZpeHNxAH4ADNau0Gh0AAlub3RpZnlBbGxzcQB+AAwtdWOGdAAMaXNJbnN0YW5jZU9mc3EAfgAMZEvbs3QABjxpbml0PnNxAH4ADEa5upB0AAFxc3EAfgAMh/onE3QABnJlbW92ZXNxAH4ADPzWQR90AAI9PXNxAH4ADMJXUtV0AAVjbG9uZXNxAH4ADP9VNQh0AAYkaW5pdCRzcQB+AAwinPMjdAAEY29weXNxAH4ADFrn0bd0AAh0b1N0cmluZ3NxAH4ADG3Y9Z90AAIhPXNxAH4ADJrsagt0AAhnZXRDbGFzc3NxAH4ADHepLQN0AAJuZXNxAH4ADDjgvUF0AAdDRlF1ZXVlc3EAfgAMi9G+h3QAAmVxc3EAfgAMrF8C9XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADJ7YuCd0AAIjI3NxAH4ADLFdsy90AAhmaW5hbGl6ZXNxAH4ADGS5WDd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADAaa3vp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB9jb20ucGVyc2lzdC51dy5leGFtcGxlcy5DRlF1ZXVldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB0c3EAfgBvdXEAfgBSAAAAAHNxAH4Ab3VxAH4AUgAAAABzcQB+AG91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI1zcQB+AIBxAH4Ag3NxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIx0AARqYXZhc3EAfgCMdAACaW9xAH4AkXNxAH4AgHQAB1Byb2R1Y3RxAH4AhnNxAH4AgHQABkVxdWFsc3EAfgCGc3EAfgCAdAAGT2JqZWN0c3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHEAfgCXc3EAfgCMdAAEbGFuZ3EAfgCRc3EAfgCAdAADQW55cQB+AIZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABdjb20ucGVyc2lzdC51dy5leGFtcGxlc3NxAH4AqnQAC2NvbS5wZXJzaXN0c3EAfgCqdAAOY29tLnBlcnNpc3QudXdzcQB+AKp0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVgeFa9CdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUYEh38dfqquDF7slnitlSNir7hII=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwqG8w8wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAwc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJN4QnnQABm5vdGlmeXNxAH4ADC6+ckB0AAd1bmFwcGx5c3EAfgAMVETtUHQAB2N1cnJpZWRzcQB+AAxxFUIEdAAEd2FpdHNxAH4ADB8xv0p0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADJPoq6h0AA0kYXNJbnN0YW5jZU9mc3EAfgAMd+YJ63QABHNpemVzcQB+AAwuR5GodAAGaW5zZXJ0c3EAfgAMxIrQ33QADHByb2R1Y3RBcml0eXNxAH4ADG35ATx0AAZlcXVhbHNzcQB+AAx+jFzldAAMYXNJbnN0YW5jZU9mc3EAfgAM3Q6423QADHN5bmNocm9uaXplZHNxAH4ADDOpY1x0AA0kaXNJbnN0YW5jZU9mc3EAfgAMd4LvRXQAD2FwcGx5JGRlZmF1bHQkM3NxAH4ADF1iBxd0AAZ0dXBsZWRzcQB+AAx9glnpdAAEcHJldnNxAH4ADMJKy8x0AAhjYW5FcXVhbHNxAH4ADHUToGF0AA1wcm9kdWN0UHJlZml4c3EAfgAMF+FzNXQABGxhc3RzcQB+AAz15/ildAABaXNxAH4ADKP3ZIx0AAlub3RpZnlBbGxzcQB+AAzV3bG6dAAMaXNJbnN0YW5jZU9mc3EAfgAMODzjwnQAEDxpbml0PiRkZWZhdWx0JDNzcQB+AAy8hwS+dAAEQ2VsbHNxAH4ADOk6Po90AAY8aW5pdD5zcQB+AAzzCycAdAAGcmVtb3Zlc3EAfgAMexPhe3QABWFwcGx5c3EAfgAMehI4znQAAj09c3EAfgAMzv+ztnQABWNsb25lc3EAfgAMcAq5gXQABEVuZHNzcQB+AAw6auVmdAAGJGluaXQkc3EAfgAMOri+4HQABG5leHRzcQB+AAxO6F+mdAAFZmlyc3RzcQB+AAzpSEhfdAAOY29weSRkZWZhdWx0JDNzcQB+AAzdWJFVdAAEY29weXNxAH4ADNcVAAl0AAh0b1N0cmluZ3NxAH4ADHYAiZp0AAIhPXNxAH4ADP/e0yN0AAhnZXRDbGFzc3NxAH4ADB6/PfV0AAZDUXVldWVzcQB+AAxQ+nWgdAAOY29weSRkZWZhdWx0JDFzcQB+AAwNz3zpdAADY250c3EAfgAMNYwXXHQAAm5lc3EAfgAMp+4SwHQAAmVxc3EAfgAMhucbaHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADJ9xyzF0AAIjI3NxAH4ADAXS39x0AAhmaW5hbGl6ZXNxAH4ADC2V93V0AA5wcm9kdWN0RWxlbWVudHNxAH4ADOubtlh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB5jb20ucGVyc2lzdC51dy5leGFtcGxlcy5DUXVldWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AI9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ad0wACWluaGVyaXRlZHEAfgB3TAAHcGFyZW50c3EAfgB3eHEAfgCUc3EAfgCPdXEAfgByAAAAAHNxAH4Aj3VxAH4AcgAAAABzcQB+AI91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AK1zcQB+AKB0AANBbnlzcQB+AKRzcQB+AKd1cQB+AKoAAAACc3EAfgCsdAAFc2NhbGFxAH4As3NxAH4AdHEAfgCBdXEAfgCCAAAAAHNxAH4AhAB0AB5jb20ucGVyc2lzdC51dy5leGFtcGxlcy5DUXVldWV1cQB+AIcAAAAAfnEAfgCJdAAIQ2xhc3NEZWZ1cQB+AI0AAAAAc3EAfgCPcQB+AJVzcQB+AI9zcQB+AJdzcQB+AI91cQB+AHIAAAAAc3EAfgCPdXEAfgByAAAAAHNxAH4Aj3VxAH4AngAAAAJzcQB+AKBxAH4Ao3NxAH4ApHNxAH4Ap3VxAH4AqgAAAANzcQB+AKxxAH4Ar3NxAH4ArHEAfgCxcQB+ALNzcQB+AKBxAH4AtXNxAH4ApHNxAH4Ap3VxAH4AqgAAAAJzcQB+AKxxAH4AunEAfgCzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAXY29tLnBlcnNpc3QudXcuZXhhbXBsZXNzcQB+ANl0AAtjb20ucGVyc2lzdHNxAH4A2XQADmNvbS5wZXJzaXN0LnV3c3EAfgDZdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYHhWvQnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vVXNlcnMvZ2tpdHptaWwvVVdTY2FsYUNsYXNzL2Fzc2lnbjIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGGDOCv4OiPUzEH9I3RXG9lK5s4x
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwFk/3vAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwl1Rpu3QABm5vdGlmeXNxAH4ADByoMG90AAR3YWl0c3EAfgAMlXoi+HQADSRhc0luc3RhbmNlT2ZzcQB+AAy8zl6PdAAEc2l6ZXNxAH4ADKcIQoh0AAZpbnNlcnRzcQB+AAyliGaudAAGZXF1YWxzc3EAfgAMUW010nQADGFzSW5zdGFuY2VPZnNxAH4ADANBuid0AAxzeW5jaHJvbml6ZWRzcQB+AAwaopZ1dAANJGlzSW5zdGFuY2VPZnNxAH4ADCz8iQN0AARsYXN0c3EAfgAM9YrX2HQAB0ZDUXVldWVzcQB+AAxJ6k2rdAAJbm90aWZ5QWxsc3EAfgAMk5NczXQADGlzSW5zdGFuY2VPZnNxAH4ADIyaC4N0AAZyZW1vdmVzcQB+AAx+cxxYdAAFYXBwbHlzcQB+AAyZKkOQdAACPT1zcQB+AAyYcFUUdAAFY2xvbmVzcQB+AAxLSarddAAGJGluaXQkc3EAfgAMFajZQXQACHRvU3RyaW5nc3EAfgAMrKjRSHQAAiE9c3EAfgAMWPZHpnQAAWNzcQB+AAzedcrtdAAIZ2V0Q2xhc3NzcQB+AAxSUv7kdAACbmVzcQB+AAza59CNdAACZXFzcQB+AAyo26fhdAACIyNzcQB+AAweN2SMdAAIZmluYWxpemVzcQB+AAyQWzZvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAfY29tLnBlcnNpc3QudXcuZXhhbXBsZXMuRkNRdWV1ZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGpzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXEAfgBIAAAAAHNxAH4AZXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ag3NxAH4AdnQAA0FueXNxAH4AenNxAH4AfXVxAH4AgAAAAAJzcQB+AIJ0AAVzY2FsYXEAfgCJc3EAfgBKcQB+AFd1cQB+AFgAAAAAc3EAfgBaCXQAH2NvbS5wZXJzaXN0LnV3LmV4YW1wbGVzLkZDUXVldWV1cQB+AF0AAAAAfnEAfgBfdAAFVHJhaXR1cQB+AGMAAAAAc3EAfgBlcQB+AGtzcQB+AGVzcQB+AG1zcQB+AGV1cQB+AEgAAAAAc3EAfgBldXEAfgBIAAAAAHNxAH4AZXVxAH4AdAAAAAJzcQB+AHZxAH4AeXNxAH4AenNxAH4AfXVxAH4AgAAAAANzcQB+AIJxAH4AhXNxAH4AgnEAfgCHcQB+AIlzcQB+AHZxAH4Ai3NxAH4AenNxAH4AfXVxAH4AgAAAAAJzcQB+AIJxAH4AkHEAfgCJdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAXY29tLnBlcnNpc3QudXcuZXhhbXBsZXNzcQB+AK90AAtjb20ucGVyc2lzdHNxAH4Ar3QADmNvbS5wZXJzaXN0LnV3c3EAfgCvdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYHhWvQnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vVXNlcnMvZ2tpdHptaWwvVVdTY2FsYUNsYXNzL2Fzc2lnbjIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFByLJW9o80iuykdqLXHOpJxqpKAP
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0kWjCgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwP55CDXQABm5vdGlmeXNxAH4ADCG6aLd0AAR3YWl0c3EAfgAMzDd3QHQADSRhc0luc3RhbmNlT2ZzcQB+AAw7on8idAAEc2l6ZXNxAH4ADLLW6J50AAZpbnNlcnRzcQB+AAzfrV+EdAAGZXF1YWxzc3EAfgAM+J9fp3QADGFzSW5zdGFuY2VPZnNxAH4ADDWTg/10AAxzeW5jaHJvbml6ZWRzcQB+AAwY8eAmdAANJGlzSW5zdGFuY2VPZnNxAH4ADMyXybB0AARsYXN0c3EAfgAMnBM8O3QACW5vdGlmeUFsbHNxAH4ADN463UV0AAxpc0luc3RhbmNlT2ZzcQB+AAwcJb8adAAGcmVtb3Zlc3EAfgAMI5qe/nQABWFwcGx5c3EAfgAMc5KsiHQAAj09c3EAfgAM1wK+S3QABWNsb25lc3EAfgAMYACfEHQABiRpbml0JHNxAH4ADEwlNhV0AAh0b1N0cmluZ3NxAH4ADBRmCWd0AAIhPXNxAH4ADFuWHQR0AAhnZXRDbGFzc3NxAH4ADF+96DB0AAZGUXVldWVzcQB+AAxRUCEEdAACbmVzcQB+AAytmgKXdAACZXFzcQB+AAxmnzGMdAACIyNzcQB+AAytM/x2dAAIZmluYWxpemVzcQB+AAzrxKuKdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAeY29tLnBlcnNpc3QudXcuZXhhbXBsZXMuRlF1ZXVldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AaHNxAH4AY3VxAH4ARgAAAABzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AIdzcQB+AEhxAH4AVXVxAH4AVgAAAABzcQB+AFgJdAAeY29tLnBlcnNpc3QudXcuZXhhbXBsZXMuRlF1ZXVldXEAfgBbAAAAAH5xAH4AXXQABVRyYWl0dXEAfgBhAAAAAHNxAH4AY3EAfgBpc3EAfgBjc3EAfgBrc3EAfgBjdXEAfgBGAAAAAHNxAH4AY3VxAH4ARgAAAABzcQB+AGN1cQB+AHIAAAACc3EAfgB0cQB+AHdzcQB+AHhzcQB+AHt1cQB+AH4AAAADc3EAfgCAcQB+AINzcQB+AIBxAH4AhXEAfgCHc3EAfgB0cQB+AIlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAcQB+AI5xAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAF2NvbS5wZXJzaXN0LnV3LmV4YW1wbGVzc3EAfgCtdAALY29tLnBlcnNpc3RzcQB+AK10AA5jb20ucGVyc2lzdC51d3NxAH4ArXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB4Vr0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L1VzZXJzL2draXR6bWlsL1VXU2NhbGFDbGFzcy9hc3NpZ24yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQHZQQCnef6w2T608ijPy/j+vJz3Q==
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwDnYBYgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdXM9hHQABm5vdGlmeXNxAH4ADCNC+nB0AAR3YWl0c3EAfgAMWPemgXQADSRhc0luc3RhbmNlT2ZzcQB+AAzzH+uPdAAEc2l6ZXNxAH4ADNvMKSF0AAV1bmlvbnNxAH4ADGKH9il0AAlpbnRlcnNlY3RzcQB+AAxaszSjdAAGZXF1YWxzc3EAfgAMHQ38q3QADGFzSW5zdGFuY2VPZnNxAH4ADMhCcyZ0AAxzeW5jaHJvbml6ZWRzcQB+AAzpTJ9odAANJGlzSW5zdGFuY2VPZnNxAH4ADJbwmjB0AAlub3RpZnlBbGxzcQB+AAxmj6p1dAAMaXNJbnN0YW5jZU9mc3EAfgAM92bIu3QABWFwcGx5c3EAfgAMlaPhrXQABnN1YnNldHNxAH4ADLWrCLp0AAI9PXNxAH4ADHQUhJ50AAVjbG9uZXNxAH4ADCGyNXt0AAZkZWxldGVzcQB+AAwI6FOWdAAGJGluaXQkc3EAfgAM280cv3QACHRvU3RyaW5nc3EAfgAM6uduPHQAAiE9c3EAfgAMyXzo0XQACGdldENsYXNzc3EAfgAM/sb+Y3QACGNvbnRhaW5zc3EAfgAMxLsT0HQABEZTZXRzcQB+AAwsjdtAdAACbmVzcQB+AAxtbTAddAADYWRkc3EAfgAMEwBOSnQAAmVxc3EAfgAMo4spLHQAAiMjc3EAfgAMrtpOwnQACGZpbmFsaXplc3EAfgAMWM7VPHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHGNvbS5wZXJzaXN0LnV3LmV4YW1wbGVzLkZTZXR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AUUwACWluaGVyaXRlZHEAfgBRTAAHcGFyZW50c3EAfgBReHEAfgBuc3EAfgBpdXEAfgBMAAAAAHNxAH4AaXVxAH4ATAAAAABzcQB+AGl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIdzcQB+AHp0AANBbnlzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAFc2NhbGFxAH4AjXNxAH4ATnEAfgBbdXEAfgBcAAAAAHNxAH4AXgl0ABxjb20ucGVyc2lzdC51dy5leGFtcGxlcy5GU2V0dXEAfgBhAAAAAH5xAH4AY3QABVRyYWl0dXEAfgBnAAAAAHNxAH4AaXEAfgBvc3EAfgBpc3EAfgBxc3EAfgBpdXEAfgBMAAAAAHNxAH4AaXVxAH4ATAAAAABzcQB+AGl1cQB+AHgAAAACc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AIlzcQB+AIZxAH4Ai3EAfgCNc3EAfgB6cQB+AI9zcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGcQB+AJRxAH4AjXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAF2NvbS5wZXJzaXN0LnV3LmV4YW1wbGVzc3EAfgCzdAALY29tLnBlcnNpc3RzcQB+ALN0AA5jb20ucGVyc2lzdC51d3NxAH4As3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB4y8jZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L1VzZXJzL2draXR6bWlsL1VXU2NhbGFDbGFzcy9hc3NpZ24yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTOLoELEOwRHinJ6A3AHVuNlqNAeA==
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCfVQMgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhRCXn3QABm5vdGlmeXNxAH4ADNOFPFF0AAR3YWl0c3EAfgAMrNamZHQADSRhc0luc3RhbmNlT2ZzcQB+AAxka93XdAAGZXF1YWxzc3EAfgAMGGwKqnQADGFzSW5zdGFuY2VPZnNxAH4ADB6eW490AA5leGVjdXRpb25TdGFydHNxAH4ADJNFWad0AAxzeW5jaHJvbml6ZWRzcQB+AAxq1b/udAANJGlzSW5zdGFuY2VPZnNxAH4ADLc8gZ90AARtYWluc3EAfgAMdn3ELXQACW5vdGlmeUFsbHNxAH4ADFddYo90AAxpc0luc3RhbmNlT2ZzcQB+AAxTRNjTdAACczFzcQB+AAyRm7MqdAACPT1zcQB+AAyAXGc+dAAFY2xvbmVzcQB+AAwx5UAYdAAGJGluaXQkc3EAfgAMCXKyjXQABE1haW5zcQB+AAzURXO8dAAIdG9TdHJpbmdzcQB+AAya2b5hdAAEYXJnc3NxAH4ADMPa8Y50AAIhPXNxAH4ADERemT50AAhnZXRDbGFzc3NxAH4ADFZP4od0AAJuZXNxAH4ADNUsqM10AAJlcXNxAH4ADAMshqB0AAtkZWxheWVkSW5pdHNxAH4ADKqzu6J0AAIjI3NxAH4ADFNG5kt0AAhmaW5hbGl6ZXNxAH4ADO0MpUx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABxjb20ucGVyc2lzdC51dy5leGFtcGxlcy5NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AanNxAH4AZXVxAH4ARgAAAABzcQB+AGV1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHR4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCOc3EAfgBYAHEAfgAfdXEAfgBbAAAAAHNxAH4AgXQABFVuaXRxAH4Ah3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHR4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF50AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCCWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBpc3EAfgCBdAAFQXJyYXlxAH4Ah3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCBdAAGU3RyaW5nc3EAfgCFc3EAfgCIdXEAfgCLAAAAA3NxAH4AjXQABGphdmFzcQB+AI10AARsYW5ncQB+AJJzcQB+AGV1cQB+AKkAAAAEc3EAfgCBdAADQXBwcQB+AIdzcQB+AIF0AAtEZWxheWVkSW5pdHEAfgCHc3EAfgCBdAAGT2JqZWN0cQB+AK1zcQB+AIF0AANBbnlxAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAF2NvbS5wZXJzaXN0LnV3LmV4YW1wbGVzc3EAfgDAdAALY29tLnBlcnNpc3RzcQB+AMB0AA5jb20ucGVyc2lzdC51d3NxAH4AwHQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB4Vr0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L1VzZXJzL2draXR6bWlsL1VXU2NhbGFDbGFzcy9hc3NpZ24yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRCvz/iOtPVZlllm+TWX6dnrFw5QQ==
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwO7H0yAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwI8GP83QABm5vdGlmeXNxAH4ADNb/+mR0AAZTUXVldWVzcQB+AAwpPMpHdAAEd2FpdHNxAH4ADEEGruV0AA0kYXNJbnN0YW5jZU9mc3EAfgAM2MtC4HQABHNpemVzcQB+AAxx1towdAAGaW5zZXJ0c3EAfgAMMrpjznQADHByb2R1Y3RBcml0eXNxAH4ADDHBe5F0AAZlcXVhbHNzcQB+AAysV/3KdAAMYXNJbnN0YW5jZU9mc3EAfgAMM4aMR3QADHN5bmNocm9uaXplZHNxAH4ADN1te2h0AA0kaXNJbnN0YW5jZU9mc3EAfgAMjQLtfHQACGNhbkVxdWFsc3EAfgAMQV8w0nQADXByb2R1Y3RQcmVmaXhzcQB+AAxVv/+hdAAJbm90aWZ5QWxsc3EAfgAMO7r/dXQADGlzSW5zdGFuY2VPZnNxAH4ADGhicU90AAY8aW5pdD5zcQB+AAx9ts+jdAAGcmVtb3Zlc3EAfgAMUZ5My3QAAj09c3EAfgAMpUYiinQABWNsb25lc3EAfgAM8aviTHQABiRpbml0JHNxAH4ADFbzk1F0AARjb3B5c3EAfgAMYu4FxHQACHRvU3RyaW5nc3EAfgAMnS1WNXQAAiE9c3EAfgAMUAo1AHQACGdldENsYXNzc3EAfgAMX6TOYXQAAm5lc3EAfgAMIEWEfXQAAmVxc3EAfgAMC65xn3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADGsdmxh0AAIjI3NxAH4ADGZWCrx0AAhmaW5hbGl6ZXNxAH4ADPF0qjR0AA5wcm9kdWN0RWxlbWVudHNxAH4ADFQj6cZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB5jb20ucGVyc2lzdC51dy5leGFtcGxlcy5TUXVldWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AbXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHJzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ai3NxAH4AfnEAfgCBc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinQABGphdmFzcQB+AIp0AAJpb3EAfgCPc3EAfgB+dAAHUHJvZHVjdHEAfgCEc3EAfgB+dAAGRXF1YWxzcQB+AIRzcQB+AH50AAZPYmplY3RzcQB+AIJzcQB+AIV1cQB+AIgAAAADc3EAfgCKcQB+AJVzcQB+AIp0AARsYW5ncQB+AI9zcQB+AH50AANBbnlxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAF2NvbS5wZXJzaXN0LnV3LmV4YW1wbGVzc3EAfgCodAALY29tLnBlcnNpc3RzcQB+AKh0AA5jb20ucGVyc2lzdC51d3NxAH4AqHQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB4Vr0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L1VzZXJzL2draXR6bWlsL1VXU2NhbGFDbGFzcy9hc3NpZ24yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ9h+HPLYlPC6hefuMHB6pzXS/jfw==
+external apis:
+0 items
+source infos:
+7 items
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CFQueue.scala -> 
+AAAAAAAAAAA=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/CQueue.scala -> 
+AAAAAAAAAAA=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FCQueue.scala -> 
+AAAAAAAAAAA=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FQueue.scala -> 
+AAAAAAAAAAA=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/FSet.scala -> 
+AAAAAAAAAAA=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/Main.scala -> 
+AAAAAAAAAAA=
+/Users/gkitzmil/UWScalaClass/assign2/src/main/scala/com/persist/uw/examples/SQueue.scala -> 
+AAAAAAAAAAA=
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBynBdh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWByo0lp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB3CfMJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB3DXDZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB3PUnB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB4Vr0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB4Z/Ht1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB4pLcp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWB4y8jZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9na2l0em1pbC9VV1NjYWxhQ2xhc3MvYXNzaWduMi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

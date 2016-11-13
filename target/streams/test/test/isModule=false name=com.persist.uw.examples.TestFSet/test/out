@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mTestFSet[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[32m+[0m init[0m
+[0m[[0minfo[0m] [0m[32m+[0m insert[0m
+[0m[[0minfo[0m] [0m[32m+[0m delete[0m
+[0m[[0minfo[0m] [0m[32m+[0m equals[0m
+[0m[[0minfo[0m] [0m[32m+[0m subset[0m
+[0m[[0minfo[0m] [0m[32m+[0m intersect[0m
+[0m[[0minfo[0m] [0m[32m+[0m union[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal for specification TestFSet[0m
+[0m[[0minfo[0m] [0m[36mFinished in 43 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m7 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[0m
